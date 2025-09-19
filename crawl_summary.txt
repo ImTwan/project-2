@@ -1,0 +1,5 @@
+CRAWL JOB SUMMARY:
+Tổng thời gian crawl 200001 sản phẩm: 0:58:19
+Tổng hợp kết quả theo status:
+- Error: 8
+- Success (HTTP 200): 198934
