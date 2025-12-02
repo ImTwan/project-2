@@ -1,3 +1,7 @@
-Sử dụng code Python, tải về thông tin của 200k sản phẩm (list product id bên dưới) của Tiki và lưu thành các file .json. Mỗi file có thông tin của khoảng 1000 sản phẩm. Các thông in cần lấy bao gồm: id, name, url_key, price, description, images url. Yêu cầu chuẩn hoá nội dung trong "description" và tìm phương án rút ngắn thời gian lấy dữ liệu.
+# Project Overview
+Using Python code, download the information for 200k products (product ID list below) from Tiki and save them as .json files. Each file should contain information for approximately 1000 products. The information to be retrieved includes: id, name, url_key, price, description, image URLs. The content in the 'description' should be standardized, and a solution should be found to reduce the data retrieval time.
 - List product_id: https://1drv.ms/u/s!AukvlU4z92FZgp4xIlzQ4giHVa5Lpw?e=qDXctn
 - API get product detail: https://api.tiki.vn/product-detail/api/v1/products/138083218
+# Result: 
+- Crawl data time :
+- The amount of data crawled: 
