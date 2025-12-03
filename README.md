@@ -6,5 +6,5 @@ Using Python code, download the information for 200k products (product ID list b
 Total time to crawl 200,001 products: 0:58:19. 
 Summarize the results by status:
 * Error: 8
-* Success (HTTP 200): 198,934"
+* Success (HTTP 200): 198,934
 
